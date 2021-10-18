@@ -1,6 +1,8 @@
 # Introduction:
 Welcome to DJ Contraptions! This site is currently under construction. :)
 
+<img src="/docs/assets/images/IMG_8360.JPEG" alt="Pet Feeder Project" width="384">
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -12,4 +14,5 @@ Welcome to DJ Contraptions! This site is currently under construction. :)
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
