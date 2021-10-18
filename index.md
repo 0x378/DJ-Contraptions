@@ -1,7 +1,7 @@
 # Introduction:
 Welcome to DJ Contraptions! This site is currently under construction. :)
 
-<img src="/docs/assets/images/IMG_8360.JPEG" alt="Pet Feeder Project" width="384">
+<img src="https://0x378.github.io/DJ-Contraptions/docs/assets/images/IMG_8360.JPEG" alt="Pet Feeder Project" width="384">
 
 # Header 1
 ## Header 2
