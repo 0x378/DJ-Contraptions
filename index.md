@@ -1,3 +1,7 @@
+# Our Team:
+- [Haley Jobes](https://github.com/hjobes)
+- [Vitaliy Dunkerley](https://github.com/0x378)
+
 # Introduction:
 Welcome to DJ Contraptions! This site is currently under construction. :)
 
