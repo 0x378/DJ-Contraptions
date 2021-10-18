@@ -4,6 +4,7 @@
 
 # Introduction:
 Welcome to DJ Contraptions! This site is currently under construction. :)
+Just so ya know, Tom Nook is a crook!
 
 <img src="https://0x378.github.io/DJ-Contraptions/docs/assets/images/IMG_8360.JPEG" alt="Pet Feeder Project" width="384">
 
